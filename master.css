@@ -87,10 +87,11 @@ hr{
 
 .copyright{
   color:#EAF6F6;
+  font-size:0.45rem;
   padding: 20px 0;
 }
 .intro {
-  width: 20%;
+  width: 40%;
   margin: auto;
 }
 
