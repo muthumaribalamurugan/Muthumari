@@ -27,13 +27,13 @@ h3 {
 }
 .cloud1{
   position: absolute;
-  left: 250px;
-  bottom: 300px;
+  left: 200px;
+  bottom: 200px;
 }
 .cloud{
   position: absolute;
-  top: 40px;
-  right: 300px;
+  top: 30px;
+  right: 200px;
 
 }
 .rakshu{
@@ -87,11 +87,10 @@ hr{
 
 .copyright{
   color:#EAF6F6;
-  font-size: 0.6rem;
   padding: 20px 0;
 }
 .intro {
-  width: 40%;
+  width: 20%;
   margin: auto;
 }
 
@@ -102,12 +101,12 @@ hr{
 
 
 .skill{
-width: 30%;
+width: 25%;
 float: left;
 margin-right: 30px;
 }
 .maths{
-  width: 30%;
+  width: 25%;
   float: right;
   margin-left: 30px;
 }
