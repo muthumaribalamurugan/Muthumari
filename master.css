@@ -27,12 +27,12 @@ h3 {
 }
 .cloud1{
   position: absolute;
-  left: 200px;
-  bottom: 200px;
+  left: 100px;
+  bottom: 100px;
 }
 .cloud{
   position: absolute;
-  top: 30px;
+  top: 20px;
   right: 200px;
 
 }
